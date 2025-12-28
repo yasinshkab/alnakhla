@@ -2,7 +2,7 @@
   "name": "al-nakhla-exchange",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/your-repo-name",
+  "homepage": "https://yasinshkab.github.io/alnakhla",
   "dependencies": {
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
