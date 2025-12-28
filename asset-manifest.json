@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/alnakhla/static/css/main.a1aa46a3.css",
+    "main.js": "/alnakhla/static/js/main.33d61ac3.js",
+    "static/media/vecteezy_businessman-isolated-illustration_24558280.png": "/alnakhla/static/media/vecteezy_businessman-isolated-illustration_24558280.215fa9ec2b36d067fd82.png",
+    "static/media/emerging-industries.gif": "/alnakhla/static/media/emerging-industries.2cd57cf5fca416f715c3.gif",
+    "static/media/calendar.gif": "/alnakhla/static/media/calendar.c20f279df0f0aadcbb43.gif",
+    "static/media/building.gif": "/alnakhla/static/media/building.6dca57251479885200b6.gif",
+    "static/media/icon_lock-removebg-preview.png": "/alnakhla/static/media/icon_lock-removebg-preview.5870a69c1f8d4ccfbdf6.png",
+    "static/media/icon_shield-removebg-preview.png": "/alnakhla/static/media/icon_shield-removebg-preview.28f7ddceb13b89ea5291.png",
+    "static/media/compliance.png": "/alnakhla/static/media/compliance.c7784bdaae5593c4e2b8.png",
+    "static/media/icon_bolt-removebg-preview.png": "/alnakhla/static/media/icon_bolt-removebg-preview.770d70bd8caf045bea8d.png",
+    "static/media/contactless-payment-illustration-svg-download-png-13207596.png": "/alnakhla/static/media/contactless-payment-illustration-svg-download-png-13207596.e5a8cb2f53aff36349ac.png",
+    "static/media/Gemini_Generated_Image_qqz4cdqqz4cdqqz4-removebg-preview.png": "/alnakhla/static/media/Gemini_Generated_Image_qqz4cdqqz4cdqqz4-removebg-preview.46301062d6e648455087.png",
+    "static/media/Untitled_design-removebg-preview.png": "/alnakhla/static/media/Untitled_design-removebg-preview.180ba15d6ed4bae43769.png",
+    "static/media/Nuran Bank_idI4jO14Q0_0.png": "/alnakhla/static/media/Nuran Bank_idI4jO14Q0_0.3ea71699aace8dcad37f.png",
+    "static/media/agreement.png": "/alnakhla/static/media/agreement.2e06fd8678fe1e6afeda.png",
+    "static/media/bank-central-of-libya-logo-png_seeklogo-563651.png": "/alnakhla/static/media/bank-central-of-libya-logo-png_seeklogo-563651.a3d5c291b5d60e9b6f4a.png",
+    "static/media/analytics.png": "/alnakhla/static/media/analytics.3f4df74f70b7e0bf273f.png",
+    "static/media/bank.png": "/alnakhla/static/media/bank.3f9bf01b49ee5c6b4fa3.png",
+    "static/media/idaqWQzYGf_logos.png": "/alnakhla/static/media/idaqWQzYGf_logos.bfdcfce2934bb6c559e3.png",
+    "index.html": "/alnakhla/index.html",
+    "main.a1aa46a3.css.map": "/alnakhla/static/css/main.a1aa46a3.css.map",
+    "main.33d61ac3.js.map": "/alnakhla/static/js/main.33d61ac3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1aa46a3.css",
+    "static/js/main.33d61ac3.js"
+  ]
+}
