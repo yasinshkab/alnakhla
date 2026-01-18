@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alnakhla/static/css/main.87ead3fe.css",
-    "main.js": "/alnakhla/static/js/main.ba077853.js",
+    "main.css": "/alnakhla/static/css/main.dd2f7377.css",
+    "main.js": "/alnakhla/static/js/main.994d6b25.js",
     "static/media/emerging-industries.gif": "/alnakhla/static/media/emerging-industries.2cd57cf5fca416f715c3.gif",
     "static/media/calendar.gif": "/alnakhla/static/media/calendar.c20f279df0f0aadcbb43.gif",
     "static/media/Gemini_Generated.png": "/alnakhla/static/media/Gemini_Generated.b57daded1feda95454fe.png",
@@ -27,11 +27,11 @@
     "static/media/analytics.png": "/alnakhla/static/media/analytics.3f4df74f70b7e0bf273f.png",
     "static/media/bank.png": "/alnakhla/static/media/bank.3f9bf01b49ee5c6b4fa3.png",
     "index.html": "/alnakhla/index.html",
-    "main.87ead3fe.css.map": "/alnakhla/static/css/main.87ead3fe.css.map",
-    "main.ba077853.js.map": "/alnakhla/static/js/main.ba077853.js.map"
+    "main.dd2f7377.css.map": "/alnakhla/static/css/main.dd2f7377.css.map",
+    "main.994d6b25.js.map": "/alnakhla/static/js/main.994d6b25.js.map"
   },
   "entrypoints": [
-    "static/css/main.87ead3fe.css",
-    "static/js/main.ba077853.js"
+    "static/css/main.dd2f7377.css",
+    "static/js/main.994d6b25.js"
   ]
 }
